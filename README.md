@@ -1,4 +1,3 @@
-# MVVM To-Do List App with Flow and Architecture Components
 <h1 align="center">
   <a href="http://davidcobbina.com" target="_blank">davidcobbina.com</a>
 </h1>
@@ -10,10 +9,6 @@
 <p align="center">
     A simple ToDo app built using Flow and Architecture Components
 </p>
-
-
-<a href="https://play.google.com/store/apps/details?id=dev.davidcobbina.fluttercatalog" target="_blank"><img src="assets/screenshots/playstore.png"/></a>
-
 
 
 # ScreenShots
