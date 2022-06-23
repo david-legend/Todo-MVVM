@@ -1,5 +1,25 @@
 # MVVM To-Do List App with Flow and Architecture Components
+<h1 align="center">
+  <a href="http://davidcobbina.com" target="_blank">davidcobbina.com</a>
+</h1>
 
-Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E
+<h1 align="center">
+ MVVM To-Do List App
+</h1>
 
-![thumbnail part 1](https://user-images.githubusercontent.com/52977034/116892669-5afefc80-ac30-11eb-9710-7a927427f02f.png)
+<p align="center">
+    A simple ToDo app built using Flow and Architecture Components
+</p>
+
+
+<a href="https://play.google.com/store/apps/details?id=dev.davidcobbina.fluttercatalog" target="_blank"><img src="assets/screenshots/playstore.png"/></a>
+
+
+
+# ScreenShots
+<br/>
+
+![Screenshot](screenshots/list_tasks.jpg)
+![Screenshot](screenshots/search.jpg)
+![Screenshot](screenshots/sort.jpg)
+![Screenshot](screenshots/edit_task.jpg)
